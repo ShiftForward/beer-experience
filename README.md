@@ -11,3 +11,4 @@ listings of those events.
 3. [No Lager a Threat](/3.md) (27/01/2017)
 4. [Stout it Out Loud](/4.md) (17/02/2017)
 5. [A Beer a Day Keeps the Doctor Away](/5.md) (24/03/2017)
+6. [ShiftForward Goes to Unicer](/6.md) (28/04/2017)
