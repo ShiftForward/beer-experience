@@ -12,3 +12,4 @@ listings of those events.
 4. [Stout it Out Loud](/4.md) (17/02/2017)
 5. [A Beer a Day Keeps the Doctor Away](/5.md) (24/03/2017)
 6. [ShiftForward Goes to Unicer](/6.md) (28/04/2017)
+7. [Sunny With a Chance of Beer](/7.md) (23/05/2017)
