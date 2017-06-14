@@ -9,3 +9,7 @@ listings of those events.
 1. [A New Hope (for Portuguese Beers)](/1.md) (02/12/2016)
 2. [Hoppy Christmas](/2.md) (23/12/2016)
 3. [No Lager a Threat](/3.md) (27/01/2017)
+4. [Stout it Out Loud](/4.md) (17/02/2017)
+5. [A Beer a Day Keeps the Doctor Away](/5.md) (24/03/2017)
+6. [ShiftForward Goes to Unicer](/6.md) (28/04/2017)
+7. [Sunny With a Chance of Beer](/7.md) (23/05/2017)
